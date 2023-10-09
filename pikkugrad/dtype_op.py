@@ -45,6 +45,7 @@ class BinaryOp(Enum):
     MUL = auto()
     MAX = auto()
     MOD = auto()
+    DIV = auto()
     CMPLT = auto()  # compare less than
 
 
